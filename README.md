@@ -139,7 +139,7 @@ O projeto será conduzido utilizando **Scrum**, com sprints quinzenais e reuniõ
 | Servidores e banco de dados | R$ 200 |
 | Manutenção e suporte | R$ 400 |
 | Marketing contínuo | R$ 300 |
-| **Total** | **R$ 900/mês** |
+| **Total** | **R$ 900/mensais** |
 
 ### Projeção de Receita
 | Cenário | Clientes | Receita Mensal | Lucro Estimado |
